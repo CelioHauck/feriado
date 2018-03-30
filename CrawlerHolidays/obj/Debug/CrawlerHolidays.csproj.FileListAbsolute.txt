@@ -1,0 +1,16 @@
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\CrawlerHolidays.exe.config
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\CrawlerHolidays.exe
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\CrawlerHolidays.pdb
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\EntityFramework.dll
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\EntityFramework.xml
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\obj\Debug\CrawlerHolidays.csprojResolveAssemblyReference.cache
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\obj\Debug\CrawlerHolidays.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\obj\Debug\CrawlerHolidays.exe
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\obj\Debug\CrawlerHolidays.pdb
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\HtmlAgilityPack.dll
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\HtmlAgilityPack.xml
+C:\Users\carol\source\repos\CrawlerHolidays\CrawlerHolidays\bin\Debug\Newtonsoft.Json.xml
